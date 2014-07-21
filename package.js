@@ -1,5 +1,5 @@
 Package.describe({
-  summery: 'Raty - A jQuery star Rating Plugin'
+  summary: 'Raty - A jQuery star Rating Plugin'
 })
 
 Package.on_use(function (api) {
