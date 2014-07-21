@@ -3,7 +3,7 @@
   "description": "raty - A jQuery star Rating Plugin",
   "homepage": "https://github.com/waitingkuo/meteor-jquery-raty",
   "author": "Wei-Ting Kuo <waitingkuo0527@gmail.com>",
-  "version": "2.7.0.1",
+  "version": "2.7.0",
   "git": "https://github.com/waitingkuo/meteor-jquery-raty.git",
   "packages": {
   }
