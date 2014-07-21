@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "jquery-raty": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "jquery-raty": {
+        "path": "."
+      }
+    }
+  }
+}
