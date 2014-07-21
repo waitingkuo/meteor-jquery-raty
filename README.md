@@ -17,6 +17,7 @@ HTML:
     <div class="raty"></div>
 
 JS:
+
     $('.raty').raty();
 
 
